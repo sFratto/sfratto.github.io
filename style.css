@@ -1,0 +1,19 @@
+.header-img{
+    margin-right: 30px;
+}
+
+.body{
+    background-color: grey;
+}
+
+td{
+    text-align: center;
+}
+
+th{
+    text-align: center;
+}
+
+/* .name{
+    text-align: center;
+ } */
