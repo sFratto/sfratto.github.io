@@ -1,0 +1,39 @@
+.header-img{
+    margin-right: 30px;
+}
+
+.body{
+    background-color: grey;
+}
+
+td{
+    text-align: center;
+}
+
+th{
+    text-align: center;
+}
+
+/* .name{
+    text-align: center;
+ } */
+
+ /* tr{
+    display:none;
+  }
+  tr.showInit{
+    display:table-row;
+  } */
+
+  #myTableKey{
+    max-width: 40%;
+    height: 5%;
+  }
+  .input-group-text{
+    width: 100px;
+  }
+
+  td.multiTable{
+    font-size: x-small;
+    width: 5%;
+  }
