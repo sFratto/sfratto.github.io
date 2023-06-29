@@ -1,0 +1,60 @@
+.header-img{
+    margin-right: 30px;
+}
+
+.body{
+    background-color: grey;
+}
+
+td{
+    text-align: center;
+}
+
+th{
+    text-align: center;
+}
+
+/* .name{
+    text-align: center;
+ } */
+
+ tr.hide{
+    display:none;
+  }
+  tr{
+    display:table-row;
+  }
+
+  #myTableKey{
+    max-width: 40%;
+    height: 450px;
+    font-size: 70%;
+  }
+  .input-group-text{
+    width: 100px;
+  }
+
+  td.multiTable{
+    font-size: large;
+    
+  }
+
+  td.multi{
+    background-color: aliceblue;
+    color: black;
+    border-radius: 5%;
+  }
+
+  input.multi{
+    max-width: 50px;
+    border-radius: 20%;
+  }
+  
+  button{
+    max-width: 100px;
+  }
+
+  .card-body{
+    background-color: grey;
+    border-width: 0;
+  }
